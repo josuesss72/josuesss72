@@ -19,7 +19,7 @@ I'm a passionate frontend developer with a knack for building scalable and high-
 
 ## Top Languages
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetang550&layout=compact&theme=dark" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuesss72&layout=compact&theme=dark" alt="top-langs" />
 </p>
 <!--
 **josuesss72/josuesss72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
