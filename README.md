@@ -24,7 +24,8 @@ I'm a passionate frontend developer with a knack for building scalable and high-
 </p>
 
 ## Cerfications
-[![Frontend Development with React](https://drive.google.com/file/d/1KoimUglrDhOMtTyX8SEWubVqz4GQE85T/view)
+<a href="https://drive.google.com/file/d/1KoimUglrDhOMtTyX8SEWubVqz4GQE85T/view">Frontend Development with React</a>
+
 <!--
 **josuesss72/josuesss72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
