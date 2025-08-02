@@ -22,6 +22,9 @@ I'm a passionate frontend developer with a knack for building scalable and high-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuesss72&layout=compact&theme=dark" alt="top-langs" />
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josuesss72&theme=github_dark&hide_border=true)](https://github.com/josuesss72" alt="Thilina's GitHub Stats Graph"/>
 </p>
+
+## Cerfications
+[![Certificado React](https://imgur.com/ejemplo1.png)](https://link-al-certificado.com)
 <!--
 **josuesss72/josuesss72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
