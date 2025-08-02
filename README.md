@@ -20,7 +20,7 @@ I'm a passionate frontend developer with a knack for building scalable and high-
 ## Top Languages
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuesss72&layout=compact&theme=dark" alt="top-langs" />
-   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Th1l1na&theme=github_dark&hide_border=true)](https://github.com/bindian0509" alt="Thilina's GitHub Stats Graph"/>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josuesss72&theme=github_dark&hide_border=true)](https://github.com/josuesss72" alt="Thilina's GitHub Stats Graph"/>
 </p>
 <!--
 **josuesss72/josuesss72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
