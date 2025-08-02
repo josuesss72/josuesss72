@@ -24,7 +24,7 @@ I'm a passionate frontend developer with a knack for building scalable and high-
 </p>
 
 ## Cerfications
-<a href="https://drive.google.com/file/d/1KoimUglrDhOMtTyX8SEWubVqz4GQE85T/view">Frontend Development with React</a>
+<a href="https://drive.google.com/file/d/1KoimUglrDhOMtTyX8SEWubVqz4GQE85T/view">Frontend Development with React</a><br/>
 <a href="https://drive.google.com/file/d/1KNCLEzoWlmjsK-rlEbj0sG9qXkAjCAOn/view">Backend Development with Nodejs</a>
 
 <!--
