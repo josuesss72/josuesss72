@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,firebase,figma,flutter,git,mongodb,neovim,nextjs,nestjs,nodejs,notion,postgres,postman,prisma,py,react,redux,sass,ts,wordpress)](https://skillicons.dev)
 <!--
 **josuesss72/josuesss72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
