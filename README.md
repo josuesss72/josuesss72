@@ -24,8 +24,7 @@ I'm a passionate frontend developer with a knack for building scalable and high-
 </p>
 
 ## Cerfications
-[![Certificado React](<img width="1005" height="715" alt="image" src="https://github.com/user-attachments/assets/1a244c1c-9d2d-4a60-bc63-8e5b390226db" />
-)](https://drive.google.com/file/d/1KoimUglrDhOMtTyX8SEWubVqz4GQE85T/view)
+[![Frontend Development with React](https://drive.google.com/file/d/1KoimUglrDhOMtTyX8SEWubVqz4GQE85T/view)
 <!--
 **josuesss72/josuesss72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
