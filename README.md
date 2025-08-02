@@ -16,19 +16,6 @@ I'm a passionate frontend developer with a knack for building scalable and high-
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,firebase,figma,flutter,git,mongodb,neovim,nextjs,nestjs,nodejs,notion,postgres,postman,prisma,py,react,redux,sass,ts,wordpress)](https://skillicons.dev)
-
-__Check out my GitHub repository:__
-
-<div>
-  <p>
-    <a href="https://github.com/josuesss72/frontend-toolsflow">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
 <!--
 **josuesss72/josuesss72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
