@@ -5,9 +5,9 @@
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhosuacode@gmail.com)
-<a href="https://www.linkedin.com/in/josue-sarmiento-vides-57335814a/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</a>
+   <p>jhosuacode@gmail.com</p>
+   <a href="https://www.linkedin.com/in/josue-sarmiento-vides-57335814a/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+   </a>
 </div>
 
 ## Hi my name is Josue Sarmiento 👋
