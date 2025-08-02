@@ -16,6 +16,14 @@ I'm a passionate frontend developer with a knack for building scalable and high-
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,firebase,figma,flutter,git,mongodb,neovim,nextjs,nestjs,nodejs,notion,postgres,postman,prisma,py,react,redux,sass,ts,wordpress)](https://skillicons.dev)
+
+## Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shwetang550&theme=dark&show_icons=true" alt="shwetangStats" />  
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetang550&layout=compact&theme=dark" alt="top-langs" />
+</p>
 <!--
 **josuesss72/josuesss72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
