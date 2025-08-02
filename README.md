@@ -18,7 +18,7 @@ I'm a passionate frontend developer with a knack for building scalable and high-
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,firebase,figma,flutter,git,mongodb,neovim,nextjs,nestjs,nodejs,notion,postgres,postman,prisma,py,react,redux,sass,ts,wordpress)](https://skillicons.dev)
 
 ## Top Languages
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetang550&layout=compact&theme=dark" alt="top-langs" />
 </p>
 <!--
