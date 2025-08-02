@@ -24,9 +24,9 @@ I'm a passionate frontend developer with a knack for building scalable and high-
 </p>
 
 ## Cerfications
-<a href="https://drive.google.com/file/d/1KoimUglrDhOMtTyX8SEWubVqz4GQE85T/view">Frontend Development with React</a><br/>
-<a href="https://drive.google.com/file/d/1KNCLEzoWlmjsK-rlEbj0sG9qXkAjCAOn/view">Backend Development with Nodejs</a><br/>
-<a href="https://drive.google.com/file/d/1oAoVFqnPGxdu6EIJsTe29FEdrPA8jdO2/view">Low code Intership</a>
+<a href="https://drive.google.com/file/d/1KoimUglrDhOMtTyX8SEWubVqz4GQE85T/view">📄 Frontend Development with React</a><br/>
+<a href="https://drive.google.com/file/d/1KNCLEzoWlmjsK-rlEbj0sG9qXkAjCAOn/view">📄 Backend Development with Nodejs</a><br/>
+<a href="https://drive.google.com/file/d/1oAoVFqnPGxdu6EIJsTe29FEdrPA8jdO2/view">📄 Low code Intership</a>
 
 <!--
 **josuesss72/josuesss72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
