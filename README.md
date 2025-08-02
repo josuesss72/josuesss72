@@ -8,14 +8,15 @@
    <a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCJfsdbjVnRvMMLJNVxGPMhkMKJLlMHVcVBTCJPkbFcBfBmnzkRVtMBLkbnnBmSHdddMGkWg"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
    <a href="https://www.linkedin.com/in/josue-sarmiento-vides-57335814a/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    </a>
-   <a href="https://docs.google.com/document/d/1zqvDbeRdjQOk0hK01eL5TlCB3UNlOeU6/edit?usp=sharing&ouid=100097056483532467852&rtpof=true&sd=true" target="_blank">
-  <img src="https://img.shields.io/badge/Ver%20Hoja%20de%20Vida-%2300b894?style=for-the-badge&logo=read-the-docs&logoColor=white" />
-</a>
    <p>Phone: +57 320-978-6359</p>
 </div>
 
 ## Hi my name is Josue Sarmiento 👋
 I'm a passionate frontend developer with a knack for building scalable and high-performance web applications. 🚀 Proficient in Next.js, TypeScript, and TailwindCSS, I focus on creating seamless, engaging, and impactful user experiences. I'm always eager to tackle new challenges and contribute to meaningful projects that make a difference. 🌟
+
+<a href="https://docs.google.com/document/d/1zqvDbeRdjQOk0hK01eL5TlCB3UNlOeU6/edit?usp=sharing&ouid=100097056483532467852&rtpof=true&sd=true" target="_blank">
+  <img src="https://img.shields.io/badge/Ver%20Hoja%20de%20Vida-%2300b894?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+</a>
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,firebase,figma,flutter,git,mongodb,neovim,nextjs,nestjs,nodejs,notion,postgres,postman,prisma,py,react,redux,sass,ts,wordpress)](https://skillicons.dev)
