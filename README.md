@@ -34,10 +34,10 @@ I'm a passionate frontend developer with a knack for building scalable and high-
 
 | Projects | Technologies | Links | Previews | Finished |
 |----------|-------------|--------------|--------------|--------------|
-| Academlo Store | HTML, CSS, and JavaScript | ![ver](https://josuesss72.github.io/ecormece/) | ![Academlo Store](./capturas_proyectos/ACADEMLO_STORE.png) | ✅ |
-| Pokedex |  React.js, HTML, CSS, and JavaScript | ![ver](https://cheerful-douhua-8c5eef.netlify.app) | ![Pokedex](./capturas_proyectos/POKEDEX.png) | ✅ |
-| Rick and Morty | React.js, HTML, CSS, and JavaScript | ![ver](https://sage-gnome-77a400.netlify.app) | ![Rick and Morty](./capturas_proyectos/RICK_MORTY.png) | ✅ |
-| Weather App | React.js, JavaScript, HTML, and CSS | ![ver](https://leafy-swan-0a82b2.netlify.app) | ![Weather App](./capturas_proyectos/WATHER_APP.png) | ✅ |
+| Academlo Store | HTML, CSS, and JavaScript | [ver](https://josuesss72.github.io/ecormece/) | ![Academlo Store](./capturas_proyectos/ACADEMLO_STORE.png) | ✅ |
+| Pokedex |  React.js, HTML, CSS, and JavaScript | [ver](https://cheerful-douhua-8c5eef.netlify.app) | ![Pokedex](./capturas_proyectos/POKEDEX.png) | ✅ |
+| Rick and Morty | React.js, HTML, CSS, and JavaScript | [ver](https://sage-gnome-77a400.netlify.app) | ![Rick and Morty](./capturas_proyectos/RICK_MORTY.png) | ✅ |
+| Weather App | React.js, JavaScript, HTML, and CSS | [ver](https://leafy-swan-0a82b2.netlify.app) | ![Weather App](./capturas_proyectos/WATHER_APP.png) | ✅ |
 | Gesnigo | Next.js 14, TypeScript, TailwindCSS, ShadCN UI, React Hook Form, Zod, Prisma, PostgreSQL  |  | ![Gesnigo]() | ❌ |
 
 <!--
