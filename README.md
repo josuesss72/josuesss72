@@ -33,7 +33,8 @@ I'm a passionate frontend developer with a knack for building scalable and high-
 <a href="https://drive.google.com/file/d/1KNCLEzoWlmjsK-rlEbj0sG9qXkAjCAOn/view">📄 Backend Development with Nodejs</a><br/>
 <a href="https://drive.google.com/file/d/1oAoVFqnPGxdu6EIJsTe29FEdrPA8jdO2/view">📄 Low code Intership</a>
 
-| Projects | Technologies | Links | Previews | Finished |
+## Projects
+| Name | Technologies | Links | Previews | Finished |
 |----------|-------------|--------------|--------------|--------------|
 | Academlo Store | HTML, CSS, and JavaScript | [ver](https://josuesss72.github.io/ecormece/) | ![Academlo Store](./capturas_proyectos/ACADEMLO_STORE.png) | ✅ |
 | Pokedex |  React.js, HTML, CSS, and JavaScript | [ver](https://cheerful-douhua-8c5eef.netlify.app) | ![Pokedex](./capturas_proyectos/POKEDEX.png) | ✅ |
