@@ -11,7 +11,8 @@
   <img src="https://img.shields.io/badge/+57%20320--978--6359-blue?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
 </div>
 
-<p align="center"  style="font-size: 30px;">JOSUE SARMIENTO | Developer full stack | UI UX</p>
+## JOSUE SARMIENTO
+<p align="center"  style="font-size: 30px;">Developer full stack | UI UX</p>
 I'm a passionate frontend developer with a knack for building scalable and high-performance web applications. 🚀 Proficient in Next.js, TypeScript, and TailwindCSS, I focus on creating seamless, engaging, and impactful user experiences. I'm always eager to tackle new challenges and contribute to meaningful projects that make a difference. 🌟
 
 <a href="https://docs.google.com/document/d/1zqvDbeRdjQOk0hK01eL5TlCB3UNlOeU6/edit?usp=sharing&ouid=100097056483532467852&rtpof=true&sd=true" target="_blank">
