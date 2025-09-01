@@ -32,6 +32,12 @@ I'm a passionate frontend developer with a knack for building scalable and high-
 <a href="https://drive.google.com/file/d/1KNCLEzoWlmjsK-rlEbj0sG9qXkAjCAOn/view">📄 Backend Development with Nodejs</a><br/>
 <a href="https://drive.google.com/file/d/1oAoVFqnPGxdu6EIJsTe29FEdrPA8jdO2/view">📄 Low code Intership</a>
 
+| Proyecto | Descripción | Vista previa |
+|----------|-------------|--------------|
+| Portafolio | Mi sitio personal con Next.js | ![Portafolio](https://via.placeholder.com/150) |
+| Blog | Blog hecho con Astro | ![Blog](https://via.placeholder.com/150) |
+| App móvil | Aplicación Flutter | ![App](https://via.placeholder.com/150) |
+
 <!--
 **josuesss72/josuesss72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
