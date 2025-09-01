@@ -10,6 +10,7 @@
    </a>
   <img src="https://img.shields.io/badge/+57%20320--978--6359-blue?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
 </div>
+<p align="center"  style="font-size: 30px;">English Level B1</p>
 
 ## JOSUE SARMIENTO
 <p align="center"  style="font-size: 30px;">Developer full stack | UI UX</p>
