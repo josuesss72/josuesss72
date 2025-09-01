@@ -34,7 +34,7 @@ I'm a passionate frontend developer with a knack for building scalable and high-
 
 | Proyecto | Descripción | Vista previa |
 |----------|-------------|--------------|
-| Academlo Store | Mi sitio personal con Next.js | ![Portafolio](./CAPTURA%20DE%20PROYECTOS%20PERSONALES/ACADEMLO_STORE.png) |
+| Academlo Store | Mi sitio personal con Next.js | ![Portafolio](./capturas_proyectos/ACADEMLO_STORE.png) |
 | Blog | Blog hecho con Astro | ![Blog](https://via.placeholder.com/150) |
 | App móvil | Aplicación Flutter | ![App](https://via.placeholder.com/150) |
 
