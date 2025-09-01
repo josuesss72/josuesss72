@@ -32,11 +32,13 @@ I'm a passionate frontend developer with a knack for building scalable and high-
 <a href="https://drive.google.com/file/d/1KNCLEzoWlmjsK-rlEbj0sG9qXkAjCAOn/view">📄 Backend Development with Nodejs</a><br/>
 <a href="https://drive.google.com/file/d/1oAoVFqnPGxdu6EIJsTe29FEdrPA8jdO2/view">📄 Low code Intership</a>
 
-| Proyecto | Descripción | Vista previa |
+| Projects | Technologies | Links | Previews | Finished |
 |----------|-------------|--------------|
-| Academlo Store | Mi sitio personal con Next.js | ![Portafolio](./capturas_proyectos/ACADEMLO_STORE.png) |
-| Blog | Blog hecho con Astro | ![Blog](https://via.placeholder.com/150) |
-| App móvil | Aplicación Flutter | ![App](https://via.placeholder.com/150) |
+| Academlo Store | HTML, CSS, and JavaScript | <a href="https://josuesss72.github.io/ecormece/"></a> | ![Academlo Store](./capturas_proyectos/ACADEMLO_STORE.png) | ✅ |
+| Pokedex |  React.js, HTML, CSS, and JavaScript | <a href="https://cheerful-douhua-8c5eef.netlify.app"></a> | ![Pokedex](./capturas_proyectos/POKEDEX.png) | ✅ |
+| Rick and Morty | React.js, HTML, CSS, and JavaScript | <a href="https://sage-gnome-77a400.netlify.app"></a> | ![Rick and Morty](./capturas_proyectos/RICK_MORTY.png) | ✅ |
+| Weather App | React.js, JavaScript, HTML, and CSS | <a href="https://leafy-swan-0a82b2.netlify.app"></a> | ![Weather App](./capturas_proyectos/WATHER_APP.png) | ✅ |
+| Gesnigo | Next.js 14, TypeScript, TailwindCSS, ShadCN UI, React Hook Form, Zod, Prisma, PostgreSQL  | <a href="https://github.com/josuesss72/frontend-toolsflow"></a> | ![Gesnigo]() | ❌ |
 
 <!--
 **josuesss72/josuesss72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
