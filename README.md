@@ -33,6 +33,13 @@ I'm a passionate frontend developer with a knack for building scalable and high-
 <a href="https://drive.google.com/file/d/1KNCLEzoWlmjsK-rlEbj0sG9qXkAjCAOn/view">📄 Backend Development with Nodejs</a><br/>
 <a href="https://drive.google.com/file/d/1oAoVFqnPGxdu6EIJsTe29FEdrPA8jdO2/view">📄 Low code Intership</a>
 
+## Experience
+| Company | Location | Job | Start | Finished | Description |
+|----------|----------|----------|----------|----------|----------|
+| GS SYSTEMS AND INNOVATIONS | Barranquilla, Colombia | Frontend Developer and Systems Engineer | August 23, 2024 | October 29, 2024 | Gain frontend experience in website and application development. Solve data traffic issues for DISTRAF Software in production at CLARO. |
+| ZONA APPLE | Barranquilla, Colombia | Electronic Technician Assistant | January 1, 2020 | August 1, 2021 | Performed maintenance and repairs on Apple products, including iPhones Used specialized tools for repairs and completed over 100 iPhone repairs (from iPhone SE to iPhone 11 Pro) Effectively communicated technical information to customers |
+
+
 ## Projects
 | Name | Technologies | Links | Previews | Finished |
 |----------|-------------|--------------|--------------|--------------|
