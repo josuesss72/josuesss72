@@ -38,6 +38,8 @@ I'm a passionate frontend developer with a knack for building scalable and high-
 | Pokedex |  React.js, HTML, CSS, and JavaScript | [ver](https://cheerful-douhua-8c5eef.netlify.app) | ![Pokedex](./capturas_proyectos/POKEDEX.png) | ✅ |
 | Rick and Morty | React.js, HTML, CSS, and JavaScript | [ver](https://sage-gnome-77a400.netlify.app) | ![Rick and Morty](./capturas_proyectos/RICK_MORTY.png) | ✅ |
 | Weather App | React.js, JavaScript, HTML, and CSS | [ver](https://leafy-swan-0a82b2.netlify.app) | ![Weather App](./capturas_proyectos/WATHER_APP.png) | ✅ |
+| Sunnyside | Astro, Tailwind CSS, TypeScript, and React | [ver](https://sunnysidetemplatestaticpage.netlify.app/) | ![Sunnyside](./capturas_proyectos/Sunny_Agency.png) | ✅ |
+| Tus Envíos | Figma | [ver](https://www.figma.com/proto/YVcobutGFaTuaa3ooCFQ9R/Untitled?page-id=0%3A1&node-id=104-2&p=f&viewport=-706%2C-1483%2C0.74&t=dyVsIeEy3CU4MPNl-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=104%3A2) | ![Tus Envíos](./capturas_proyectos/FIGMA_ENVIOS.png) | ✅ |
 | Gesnigo | Next.js 14, TypeScript, TailwindCSS, ShadCN UI, React Hook Form, Zod, Prisma, PostgreSQL  |  | ![Gesnigo]() | ❌ |
 
 <!--
