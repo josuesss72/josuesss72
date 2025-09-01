@@ -33,7 +33,7 @@ I'm a passionate frontend developer with a knack for building scalable and high-
 <a href="https://drive.google.com/file/d/1oAoVFqnPGxdu6EIJsTe29FEdrPA8jdO2/view">📄 Low code Intership</a>
 
 | Projects | Technologies | Links | Previews | Finished |
-|----------|-------------|--------------|
+|----------|-------------|--------------|--------------|--------------|
 | Academlo Store | HTML, CSS, and JavaScript | <a href="https://josuesss72.github.io/ecormece/"></a> | ![Academlo Store](./capturas_proyectos/ACADEMLO_STORE.png) | ✅ |
 | Pokedex |  React.js, HTML, CSS, and JavaScript | <a href="https://cheerful-douhua-8c5eef.netlify.app"></a> | ![Pokedex](./capturas_proyectos/POKEDEX.png) | ✅ |
 | Rick and Morty | React.js, HTML, CSS, and JavaScript | <a href="https://sage-gnome-77a400.netlify.app"></a> | ![Rick and Morty](./capturas_proyectos/RICK_MORTY.png) | ✅ |
